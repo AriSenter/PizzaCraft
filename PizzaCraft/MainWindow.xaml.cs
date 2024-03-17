@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.Mime;
 using System.Runtime.Remoting.Messaging;
 using System.Text;
 using System.Threading.Tasks;
@@ -95,5 +96,9 @@ namespace PizzaCraft
             W_OrderSuccesful Wind = new W_OrderSuccesful(); Wind.Show(); Hide();
         }
 
+        public MediaTypeNames.Image FindName(string v)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
