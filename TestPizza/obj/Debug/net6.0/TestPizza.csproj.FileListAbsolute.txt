@@ -1,0 +1,5 @@
+C:\Users\Mur4alka\Desktop\Дистанционка\4 КУРС\2 полугодие\МДК 07.01\PizzaCraft\TestPizza\obj\Debug\net6.0\TestPizza.csproj.AssemblyReference.cache
+C:\Users\Mur4alka\Desktop\Дистанционка\4 КУРС\2 полугодие\МДК 07.01\PizzaCraft\TestPizza\obj\Debug\net6.0\TestPizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mur4alka\Desktop\Дистанционка\4 КУРС\2 полугодие\МДК 07.01\PizzaCraft\TestPizza\obj\Debug\net6.0\TestPizza.AssemblyInfoInputs.cache
+C:\Users\Mur4alka\Desktop\Дистанционка\4 КУРС\2 полугодие\МДК 07.01\PizzaCraft\TestPizza\obj\Debug\net6.0\TestPizza.AssemblyInfo.cs
+C:\Users\Mur4alka\Desktop\Дистанционка\4 КУРС\2 полугодие\МДК 07.01\PizzaCraft\TestPizza\obj\Debug\net6.0\TestPizza.csproj.CoreCompileInputs.cache

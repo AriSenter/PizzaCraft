@@ -16,39 +16,21 @@ C:\Users\11slx\Desktop\!Учёба\4 КУРС\Март\УП07.01\PizzaCraft\Pizz
 C:\Users\11slx\Desktop\!Учёба\4 КУРС\Март\УП07.01\PizzaCraft\PizzaCraft\obj\Debug\PizzaCraft.pdb
 C:\Users\11slx\Desktop\!Учёба\4 КУРС\Март\УП07.01\PizzaCraft\PizzaCraft\obj\Debug\W_OrderSuccesful.g.cs
 C:\Users\11slx\Desktop\!Учёба\4 КУРС\Март\УП07.01\PizzaCraft\PizzaCraft\obj\Debug\W_OrderSuccesful.baml
-C:\Users\ivaaa\Desktop\PizzaCraft\PizzaCraft\bin\Debug\PizzaCraft.exe.config
-C:\Users\ivaaa\Desktop\PizzaCraft\PizzaCraft\bin\Debug\PizzaCraft.exe
-C:\Users\ivaaa\Desktop\PizzaCraft\PizzaCraft\bin\Debug\PizzaCraft.pdb
-C:\Users\ivaaa\Desktop\PizzaCraft\PizzaCraft\obj\Debug\PizzaCraft.csproj.AssemblyReference.cache
-C:\Users\ivaaa\Desktop\PizzaCraft\PizzaCraft\obj\Debug\PizzaCraft.csproj.SuggestedBindingRedirects.cache
-C:\Users\ivaaa\Desktop\PizzaCraft\PizzaCraft\obj\Debug\MainWindow.g.cs
-C:\Users\ivaaa\Desktop\PizzaCraft\PizzaCraft\obj\Debug\W_OrderSuccesful.g.cs
-C:\Users\ivaaa\Desktop\PizzaCraft\PizzaCraft\obj\Debug\App.g.cs
-C:\Users\ivaaa\Desktop\PizzaCraft\PizzaCraft\obj\Debug\PizzaCraft_MarkupCompile.cache
-C:\Users\ivaaa\Desktop\PizzaCraft\PizzaCraft\obj\Debug\PizzaCraft_MarkupCompile.lref
-C:\Users\ivaaa\Desktop\PizzaCraft\PizzaCraft\obj\Debug\MainWindow.baml
-C:\Users\ivaaa\Desktop\PizzaCraft\PizzaCraft\obj\Debug\W_OrderSuccesful.baml
-C:\Users\ivaaa\Desktop\PizzaCraft\PizzaCraft\obj\Debug\PizzaCraft.g.resources
-C:\Users\ivaaa\Desktop\PizzaCraft\PizzaCraft\obj\Debug\PizzaCraft.Properties.Resources.resources
-C:\Users\ivaaa\Desktop\PizzaCraft\PizzaCraft\obj\Debug\PizzaCraft.csproj.GenerateResource.cache
-C:\Users\ivaaa\Desktop\PizzaCraft\PizzaCraft\obj\Debug\PizzaCraft.csproj.CoreCompileInputs.cache
-C:\Users\ivaaa\Desktop\PizzaCraft\PizzaCraft\obj\Debug\PizzaCraft.exe
-C:\Users\ivaaa\Desktop\PizzaCraft\PizzaCraft\obj\Debug\PizzaCraft.pdb
-C:\GitWorks\PizzaCraft\PizzaCraft\bin\Debug\PizzaCraft.exe.config
-C:\GitWorks\PizzaCraft\PizzaCraft\bin\Debug\PizzaCraft.exe
-C:\GitWorks\PizzaCraft\PizzaCraft\bin\Debug\PizzaCraft.pdb
-C:\GitWorks\PizzaCraft\PizzaCraft\obj\Debug\PizzaCraft.csproj.AssemblyReference.cache
-C:\GitWorks\PizzaCraft\PizzaCraft\obj\Debug\PizzaCraft.csproj.SuggestedBindingRedirects.cache
-C:\GitWorks\PizzaCraft\PizzaCraft\obj\Debug\MainWindow.g.cs
-C:\GitWorks\PizzaCraft\PizzaCraft\obj\Debug\W_OrderSuccesful.g.cs
-C:\GitWorks\PizzaCraft\PizzaCraft\obj\Debug\App.g.cs
-C:\GitWorks\PizzaCraft\PizzaCraft\obj\Debug\PizzaCraft_MarkupCompile.cache
-C:\GitWorks\PizzaCraft\PizzaCraft\obj\Debug\PizzaCraft_MarkupCompile.lref
-C:\GitWorks\PizzaCraft\PizzaCraft\obj\Debug\MainWindow.baml
-C:\GitWorks\PizzaCraft\PizzaCraft\obj\Debug\W_OrderSuccesful.baml
-C:\GitWorks\PizzaCraft\PizzaCraft\obj\Debug\PizzaCraft.g.resources
-C:\GitWorks\PizzaCraft\PizzaCraft\obj\Debug\PizzaCraft.Properties.Resources.resources
-C:\GitWorks\PizzaCraft\PizzaCraft\obj\Debug\PizzaCraft.csproj.GenerateResource.cache
-C:\GitWorks\PizzaCraft\PizzaCraft\obj\Debug\PizzaCraft.csproj.CoreCompileInputs.cache
-C:\GitWorks\PizzaCraft\PizzaCraft\obj\Debug\PizzaCraft.exe
-C:\GitWorks\PizzaCraft\PizzaCraft\obj\Debug\PizzaCraft.pdb
+C:\Users\Mur4alka\Desktop\Дистанционка\4 КУРС\2 полугодие\МДК 07.01\PizzaCraft\PizzaCraft\bin\Debug\PizzaCraft.exe.config
+C:\Users\Mur4alka\Desktop\Дистанционка\4 КУРС\2 полугодие\МДК 07.01\PizzaCraft\PizzaCraft\bin\Debug\PizzaCraft.exe
+C:\Users\Mur4alka\Desktop\Дистанционка\4 КУРС\2 полугодие\МДК 07.01\PizzaCraft\PizzaCraft\bin\Debug\PizzaCraft.pdb
+C:\Users\Mur4alka\Desktop\Дистанционка\4 КУРС\2 полугодие\МДК 07.01\PizzaCraft\PizzaCraft\obj\Debug\PizzaCraft.csproj.AssemblyReference.cache
+C:\Users\Mur4alka\Desktop\Дистанционка\4 КУРС\2 полугодие\МДК 07.01\PizzaCraft\PizzaCraft\obj\Debug\PizzaCraft.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mur4alka\Desktop\Дистанционка\4 КУРС\2 полугодие\МДК 07.01\PizzaCraft\PizzaCraft\obj\Debug\MainWindow.g.cs
+C:\Users\Mur4alka\Desktop\Дистанционка\4 КУРС\2 полугодие\МДК 07.01\PizzaCraft\PizzaCraft\obj\Debug\W_OrderSuccesful.g.cs
+C:\Users\Mur4alka\Desktop\Дистанционка\4 КУРС\2 полугодие\МДК 07.01\PizzaCraft\PizzaCraft\obj\Debug\App.g.cs
+C:\Users\Mur4alka\Desktop\Дистанционка\4 КУРС\2 полугодие\МДК 07.01\PizzaCraft\PizzaCraft\obj\Debug\PizzaCraft_MarkupCompile.cache
+C:\Users\Mur4alka\Desktop\Дистанционка\4 КУРС\2 полугодие\МДК 07.01\PizzaCraft\PizzaCraft\obj\Debug\PizzaCraft_MarkupCompile.lref
+C:\Users\Mur4alka\Desktop\Дистанционка\4 КУРС\2 полугодие\МДК 07.01\PizzaCraft\PizzaCraft\obj\Debug\MainWindow.baml
+C:\Users\Mur4alka\Desktop\Дистанционка\4 КУРС\2 полугодие\МДК 07.01\PizzaCraft\PizzaCraft\obj\Debug\W_OrderSuccesful.baml
+C:\Users\Mur4alka\Desktop\Дистанционка\4 КУРС\2 полугодие\МДК 07.01\PizzaCraft\PizzaCraft\obj\Debug\PizzaCraft.g.resources
+C:\Users\Mur4alka\Desktop\Дистанционка\4 КУРС\2 полугодие\МДК 07.01\PizzaCraft\PizzaCraft\obj\Debug\PizzaCraft.Properties.Resources.resources
+C:\Users\Mur4alka\Desktop\Дистанционка\4 КУРС\2 полугодие\МДК 07.01\PizzaCraft\PizzaCraft\obj\Debug\PizzaCraft.csproj.GenerateResource.cache
+C:\Users\Mur4alka\Desktop\Дистанционка\4 КУРС\2 полугодие\МДК 07.01\PizzaCraft\PizzaCraft\obj\Debug\PizzaCraft.csproj.CoreCompileInputs.cache
+C:\Users\Mur4alka\Desktop\Дистанционка\4 КУРС\2 полугодие\МДК 07.01\PizzaCraft\PizzaCraft\obj\Debug\PizzaCraft.exe
+C:\Users\Mur4alka\Desktop\Дистанционка\4 КУРС\2 полугодие\МДК 07.01\PizzaCraft\PizzaCraft\obj\Debug\PizzaCraft.pdb
